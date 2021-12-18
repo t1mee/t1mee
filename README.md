@@ -12,7 +12,7 @@
  I have little experience in commercial development. I made a few web-apps and themes for WordPress
  
  ## Also
- I'm learning backend:
+ I learn backend:
  * Golang
  * REST API
  * MVC
