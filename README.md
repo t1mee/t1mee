@@ -3,9 +3,8 @@
 ### Languages:
 * JavaScript
 * TypeScript
-### Frameworks and libs:
+### Frameworks and libs
 * React
-* TypeScript
 * Redux
 * React Native
 ### Styling:
@@ -13,16 +12,15 @@
 * Bootstrap
 * Material UI
 
-## My experiance:
- I have little experience in commercial development. I made a few web-apps and themes for WordPress
- 
  ## Also
- I learn backend:
+ basicly knowledge:
+ * Docker
+ * MongoDB
  * REST API
  * MVC
  
  ## My contacts: 
 
- * [VK](vk.com/teemee)
- * [FB](https://www.facebook.com/t1mee/)
+ * [vk](vk.com/teemee)
+ * [fb](https://www.facebook.com/t1mee/)
  * [telegram](https://t.me/t1mee)
