@@ -1,9 +1,14 @@
 # Hi, my name is Vladislav i'm junior frontend developer
 ## My stack:
+### Languages:
+* JavaScript
+* TypeScript
+### Frameworks and libs:
 * React
 * TypeScript
 * Redux
 * React Native
+### Styling:
 * scss
 * Bootstrap
 * Material UI
@@ -13,7 +18,6 @@
  
  ## Also
  I learn backend:
- * Golang
  * REST API
  * MVC
  
