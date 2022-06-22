@@ -8,7 +8,8 @@
 * Redux
 * React Native
 ### Styling:
-* scss
+* JSS
+* Scss
 * Bootstrap
 * Material UI
 
