@@ -9,6 +9,9 @@
 ### Styling:
 <img src="https://img.icons8.com/color/344/sass.png" width="48px" height="48px" alt="Sass" /><img src="https://img.icons8.com/color/344/bootstrap.png" width="48px" height="48px" alt="bootstrap" /><img src="https://img.icons8.com/color/344/material-ui.png" width="48px" height="48px" alt="material ui" />
 
+### Changes tracking:
+<img src="https://img.icons8.com/color/344/git.png" width="48px" height="48px" alt="Git" /><img src="https://img.icons8.com/color/344/gitlab.png" width="48px" height="48px" alt="GitLab" />
+
 ### Basicly knowledge:
  <img src="https://img.icons8.com/fluency/344/docker.png" width="48px" height="48px" alt="Sass" /><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" width="48px" height="48px" alt="Sass" />
 
